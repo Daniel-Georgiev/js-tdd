@@ -1,0 +1,22 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "Exercising tdd",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daniel-Georgiev/js-tdd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daniel-Georgiev/js-tdd/issues"
+  },
+  "homepage": "https://github.com/Daniel-Georgiev/js-tdd#readme",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
